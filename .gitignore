@@ -1,7 +1,0 @@
-# Ignore everything except index.html and config files
-!index.html
-!netlify.toml
-*.log
-node_modules/
-.DS_Store
-*.env
